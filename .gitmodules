@@ -1,0 +1,3 @@
+[submodule "subRep"]
+	path = subRep
+	url = git@github.com:812913/subRep.git
